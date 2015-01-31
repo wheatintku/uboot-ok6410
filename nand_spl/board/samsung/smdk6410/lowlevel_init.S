@@ -1,0 +1,1 @@
+/home/brian/workspace/ok6410/u-boot/w-2013.04-rc2/board/samsung/smdk6410/lowlevel_init.S
